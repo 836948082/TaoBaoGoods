@@ -10,4 +10,4 @@
 3. 导航栏切换 [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
 
 
-![Image](https://github.com/hexianqiao3755/GoodsInfoPage/blob/master/demo.gif)
+![Image](https://github.com/836948082/TaoBaoGoods/blob/master/image/screen.gif)
